@@ -1,0 +1,11 @@
+{
+  "name": "Jesse Assistant",
+  "short_name": "Jesse",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "favicon.png",
+    "sizes": "453x453",
+    "type": "logo.png"
+  }]
+}
